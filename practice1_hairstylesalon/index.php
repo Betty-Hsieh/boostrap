@@ -13,6 +13,15 @@
 <body>
 	<header>
     	<div class="container">
+        	<div class="row">
+            	<div class="col-lg-4">
+                	<a href="index.php">
+                    	<h1>practice1_hairstylesalon</h1>
+                    </a>
+                </div>
+                <div class="col-lg-8">
+                </div>
+            </div>
         </div>
     </header>
     <section class="container">
